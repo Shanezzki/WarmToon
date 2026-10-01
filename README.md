@@ -16,3 +16,10 @@ Minecraft as it looks in the trailers: soft sunlight, rich warm colors and a coz
 ### Quality presets
 
 Pick what prefar: **Potato, Low, Medium, High or Max.** Everything can also be tweaked by hand: shadow quality, toon strength, color saturation, sun size, lens flares, water reflections, fog and more.
+
+**Regarding the pack's design:**
+- The pack is written using an older shader format (GLSL 1.20) that is compatible with both OptiFine and Iris. Therefore, it is not tied to a specific game version.
+- **Iris:** I found builds for versions 26.1 and 26.2 (July 2026), for 1.21.x, and for older versions (including 1.16.5). I have no information regarding version 26.3.
+- **OptiFine:** I found no confirmation of a release for 26.x, so use Iris for 26.x.
+
+**Theoretically compatible with:** versions 1.16.5 through 26.2 via Iris, and 1.16.5 through 1.21.x via OptiFine.
