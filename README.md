@@ -45,8 +45,13 @@ Pick what prefar: **Potato, Low, Medium, High or Max.** Everything can also be t
 
 ### Examples of Shader settings:
 | Preset | Example |
+
 | Potato | <img width="480" height="252" alt="2026-10-01_14 19 17" src="https://github.com/user-attachments/assets/bd59d204-9600-4823-b2ab-9cf31d00ce13" /> |
+
 | Low | <img width="480" height="252" alt="2026-10-01_14 19 30" src="https://github.com/user-attachments/assets/3cdb70af-ebf7-4a89-98e1-40b2d0c7b9d2" /> |
+
 | Medium | <img width="480" height="252" alt="2026-10-01_14 19 44" src="https://github.com/user-attachments/assets/5d7bea82-1545-40fd-9fad-d33df69a3c66" /> |
+
 | High | <img width="480" height="252" alt="2026-10-01_14 20 09" src="https://github.com/user-attachments/assets/c0b0228e-71b2-4b43-9c0e-3202bf9d3f3a" /> |
+
 | Max | <img width="480" height="252" alt="2026-10-01_14 20 29" src="https://github.com/user-attachments/assets/32bd9799-530d-4380-ac03-0bd4bc33a4a8" /> |
